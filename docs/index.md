@@ -2,10 +2,10 @@
 # <span style="color:gold">Welcome to Namenai Script mod Mkdocs site</span> 	
 Hello this is a simple mkdocs site for the NSM (Namenai Script Mod).
 
-Also this is the link to the fancy mkdocs site [here](https://aux-mkdocs.readthedocs.io/en/latest/)	
+Also this is the link to the fancy mkdocs site [here](https://namenai-script-mod-docs.readthedocs.io/en/latest/)	
 	
 ## <span style="color:gold">Mod links </span> 	
-- This [here](https://steamcommunity.com/sharedfiles/filedetails/?id=1847261252) is the live mod.	
+- This [here](www.google.com) is the live mod.	
 
 ## Features
 
@@ -17,7 +17,7 @@ As of now theres only one feature, the jumppack. I plan to add other scripts lik
 I suspect that alot of ppl outside will like the jumppack, you can do the following to have our own jumppack.
 
 !!! info "Inheritance for own jumppack"	
-    ### Example config.cpp	
+    #### Example config.cpp	
     ```cpp	
     class CfgPatches	
     {	
@@ -43,6 +43,8 @@ I suspect that alot of ppl outside will like the jumppack, you can do the follow
         class UR_COOL_NEW_JUMPPACK: NSM_neutral_XD_1_backpack
         {
             scope = 2;
+
+            // wowe daz me 😊
             author = "NSM";
             displayname = "[Jumppack] XD-1"; //Name this to whatever you want
             NSM_jumppack_is_jumppack = 1; // 1 means yes, 0 means no.
@@ -79,7 +81,7 @@ I suspect that alot of ppl outside will like the jumppack, you can do the follow
 
             // I wouldnt reccomend changing these below.
             // Mainly because...idk. I just think its a little
-            // bit complicated the way I set iy up.
+            // bit complicated the way I set it up.
             // I will try to make it easier in future
             // to add stuff, mainly particle effects
             NSM_jumppack_jump_effect_script = "NSM_jumppack_effect_fnc_jt_21";
@@ -97,4 +99,12 @@ I suspect that alot of ppl outside will like the jumppack, you can do the follow
         };
     };	
     ```
-    Or if your a lazy doo doo farted head, [here](/example.cpp)
+    Or if your a lazy doo doo farted head, [here](/example.cpp) 💩
+
+
+## Future
+
+As I mentioned I plan to
+
+1. Add a generic afterburner for jets/helis/vehicles
+2. Energy shield for vehicles and players. Like Halo or some other bullshit sci fi shit 💩.
