@@ -1,0 +1,34 @@
+site_name: Namenai Script Mod Mkdocs
+
+nav:
+    - Home: index.md       
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  logo:
+    icon: 'whatshot'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  palette:
+    primary: 'blue'
+    accent: 'amber'
+
+markdown_extensions:
+  - toc
+  - codehilite:
+      linenums: true
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.tilde
+
+plugins:
+  - search
+
+
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css
