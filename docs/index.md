@@ -13,8 +13,10 @@ As of now theres only one feature, the jumppack. I plan to add other scripts lik
 
 
 ### Jumppack
+There are 2 jumppacks. The XD-1 and XD-1 LTU. The difference is that the XD-1 LTU stands for "Limited Time Use" meaning you can only jump a select few times. This is because it has no energy regen. The onyl way to get energy back is to enter arsenal, ACE or BIS. If you do things like backpack on chest you will lose all energy, basicly anything where it spawns a new backpack. You can drop the backpack on the floor and it will retain its energy.
 
-I suspect that alot of ppl outside will like the jumppack, you can do the following to have our own jumppack.
+
+You can do the following to have our own jumppack.
 
 !!! info "Inheritance for own jumppack"	
     #### Example config.cpp	
