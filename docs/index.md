@@ -5,7 +5,7 @@ Hello this is a simple mkdocs site for the NSM (Namenai Script Mod).
 Also this is the link to the fancy mkdocs site [here](https://namenai-script-mod-docs.readthedocs.io/en/latest/)	
 	
 ## <span style="color:gold">Mod links </span> 	
-- This [here](www.google.com) is the live mod.	
+- This [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2068356312) is the live mod.	
 
 ## Features
 
