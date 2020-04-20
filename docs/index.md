@@ -17,6 +17,7 @@ There are 2 jumppacks. The XD-1 and XD-1 LTU. The difference is that the XD-1 LT
 
 You can use CBA keybinds, just go to `Options > Controls > Configure Addons > NSM Jumppack Mod`. Of the 3, you only need to bind `jump` and one of `cycle left` or `cycle right`. The cycle buttons are like a weapon wheel in older games.
 
+The way the jumppack works is, you select a jumptype (with `cycle left` or `cycle right`), and press `jump`. Thats fucking hard ye? You can even configure a jumptype to be directional, as in it jumps u in the direction you are looking. So if you look stright up it will jump you stright up, if you look down you will jump down. Non directional jumps follow a path independent of where you are looking, just in the direction you are facing.
 
 You can do the following to have our own jumppack.
 
